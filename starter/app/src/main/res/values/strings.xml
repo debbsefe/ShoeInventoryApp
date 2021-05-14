@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+
+    <string name="welcome">Welcome to Shoe Inventory App</string>
+    <string name="welcome_description">We have fancy shoes for everyone</string>
+    <string name="instructions">Instructions</string>
+    <string name="shoe_inventory_app">Shoe Inventory App</string>
+    <string name="instructions_content">These are the instructions</string>
+    <string name="shoes">Shoes</string>
+
 </resources>
