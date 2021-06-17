@@ -6,14 +6,14 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:layout_margin="@dimen/margin_16">
+        android:layout_margin="@dimen/margin_16"
+        android:orientation="vertical">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="24sp"
-            android:text="@string/instructions" />
+            android:text="@string/instructions"
+            android:textSize="24sp" />
 
         <TextView
             android:layout_width="match_parent"
@@ -22,14 +22,9 @@
 
         <Button
             android:id="@+id/id_shoes_destination"
-            style="?android:attr/buttonBarButtonStyle"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/shoe_button_style"
             android:layout_gravity="center"
-            android:layout_marginTop="@dimen/margin_16"
-            android:layout_marginEnd="@dimen/margin_16"
-            android:background="@color/colorPrimary"
-            android:text="@string/shoes" />
+            android:text="@string/shoes_list_navigate_desc" />
     </LinearLayout>
 
 </layout>

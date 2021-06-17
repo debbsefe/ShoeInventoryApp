@@ -7,10 +7,24 @@
     <string name="login">Login</string>
 
     <string name="welcome">Welcome to Shoe Inventory App</string>
-    <string name="welcome_description">We have fancy shoes for everyone</string>
+    <string name="welcome_description">Keep track of your shoe inventory</string>
     <string name="instructions">Instructions</string>
+    <string name="view_instructions">View Instructions</string>
+
     <string name="shoe_inventory_app">Shoe Inventory App</string>
-    <string name="instructions_content">These are the instructions</string>
+    <string name="instructions_content">View all your shoes in the inventory by clicking on shoe listings button below</string>
     <string name="shoes">Shoes</string>
+    <string name="shoes_list_navigate_desc">View Shoe listings</string>
+    <string name="shoe_detail_navigate_desc">navigate to shoe detail</string>
+
+    <string name="company">Company</string>
+    <string name="shoe_name_hint">Shoe name Hint</string>
+    <string name="shoe_detail">Shoe Detail</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
 
 </resources>

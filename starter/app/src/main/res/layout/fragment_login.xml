@@ -14,8 +14,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_16"
             android:labelFor="@+id/id_email"
-            android:textSize="24sp"
-            android:text="@string/shoe_inventory_app" />
+            android:text="@string/shoe_inventory_app"
+            android:textSize="24sp" />
 
         <TextView
             android:layout_width="match_parent"
@@ -48,27 +48,20 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_horizontal">
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
 
             <Button
                 android:id="@+id/id_signup"
-                android:layout_marginTop="@dimen/margin_16"
-                android:layout_marginEnd="@dimen/margin_16"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/colorPrimary"
-                android:text="@string/sign_up"
-                style="?android:attr/buttonBarButtonStyle" />
+                style="@style/shoe_button_style"
+                android:layout_gravity="center"
+                android:text="@string/sign_up" />
 
             <Button
                 android:id="@+id/id_login"
-                android:layout_marginTop="@dimen/margin_16"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/colorPrimary"
-                android:text="@string/login"
-                style="?android:attr/buttonBarButtonStyle" />
+                style="@style/shoe_button_style"
+                android:layout_gravity="center"
+                android:text="@string/login" />
         </LinearLayout>
     </LinearLayout>
 
