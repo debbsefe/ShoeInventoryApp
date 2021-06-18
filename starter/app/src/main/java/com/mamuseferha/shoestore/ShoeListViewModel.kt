@@ -1,10 +1,10 @@
-package com.udacity.shoestore
+package com.mamuseferha.shoestore
 
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.udacity.shoestore.models.Shoe
+import com.mamuseferha.shoestore.models.Shoe
 
 class ShoeListViewModel : ViewModel() {
 

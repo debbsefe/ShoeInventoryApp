@@ -1,12 +1,12 @@
-package com.udacity.shoestore
+package com.mamuseferha.shoestore
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
 import androidx.databinding.DataBindingUtil
-import com.udacity.shoestore.databinding.ShoeLayoutBinding
-import com.udacity.shoestore.models.Shoe
+import com.mamuseferha.shoestore.databinding.ShoeLayoutBinding
+import com.mamuseferha.shoestore.models.Shoe
 
 
 class ShoeLayout : LinearLayout {

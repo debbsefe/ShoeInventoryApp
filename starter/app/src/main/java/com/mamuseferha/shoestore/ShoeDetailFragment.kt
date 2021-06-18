@@ -1,4 +1,4 @@
-package com.udacity.shoestore
+package com.mamuseferha.shoestore
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,8 +8,8 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.findNavController
-import com.udacity.shoestore.databinding.FragmentShoeDetailBinding
-import com.udacity.shoestore.models.Shoe
+import com.mamuseferha.shoestore.databinding.FragmentShoeDetailBinding
+import com.mamuseferha.shoestore.models.Shoe
 
 
 class ShoeDetailFragment : Fragment() {

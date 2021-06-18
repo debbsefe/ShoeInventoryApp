@@ -1,4 +1,4 @@
-package com.udacity.shoestore
+package com.mamuseferha.shoestore
 
 import android.os.Bundle
 import android.view.*
@@ -8,8 +8,8 @@ import androidx.fragment.app.activityViewModels
 import androidx.navigation.Navigation
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
-import com.udacity.shoestore.databinding.ShoeListFragmentBinding
-import com.udacity.shoestore.models.Shoe
+import com.mamuseferha.shoestore.databinding.ShoeListFragmentBinding
+import com.mamuseferha.shoestore.models.Shoe
 import timber.log.Timber
 
 
