@@ -4,10 +4,9 @@
     tools:context=".ShoeDetailFragment">
 
     <data>
-
         <variable
             name="shoeListViewModel"
-            type="com.udacity.shoestore.ShoeListViewModel" />
+            type="com.mamuseferha.shoestore.ShoeListViewModel" />
     </data>
 
     <LinearLayout
